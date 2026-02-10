@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Coelho 👋
 
-🎓 Computer Engineering graduate from the University of Algarve, Portugal  
+🎓 Computer Engineering graduate from the [University of Algarve](https://www.ualg.pt/en/curso/1478/plano), Portugal  
 💻 Junior Software Developer
 
 ---
