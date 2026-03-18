@@ -1,15 +1,15 @@
 # Hi, I'm Rodrigo Coelho 👋
 
-🎓 Computer Science graduate from the [University of Algarve](https://www.ualg.pt/en/curso/1478/plano), Portugal  
-💻 Junior Software Developer
+🎓 Computer Engineering graduate from the [University of Algarve](https://www.ualg.pt/en/curso/1478/plano), Portugal  
+💻 Junior Software Engineer
 
 ---
 
 ## About me
 
-Computer Science graduate looking for a **first professional opportunity** in software development.
+Computer Engineering graduate looking for a **first professional opportunity** in software development.
 
-I have experience through **personal and academic projects**, where I built a strong foundation in programming, problem-solving, and clean code practices. I’m motivated, adaptable, and eager to grow as a software developer.
+I have experience through **personal and academic projects**, where I built a strong foundation in programming, problem-solving, and clean code practices. I’m motivated, adaptable, and eager to grow as a software engineer.
 
 Focused on backend development with Java and Spring, with experience building full-stack applications.
 
