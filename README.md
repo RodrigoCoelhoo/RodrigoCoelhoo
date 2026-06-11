@@ -22,6 +22,7 @@ Focused on backend development, with experience building full-stack applications
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
 </p>
 
 ### Frontend
@@ -29,6 +30,8 @@ Focused on backend development, with experience building full-stack applications
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white />
 </p>
 
 ### Languages
@@ -42,6 +45,7 @@ Focused on backend development, with experience building full-stack applications
 ### Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" alt="WebSocket Badge" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
@@ -49,6 +53,12 @@ Focused on backend development, with experience building full-stack applications
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logo=mockito&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logback-Logging-green?style=for-the-badge" alt="Logback Badge" />
 </p>
 
 ---
@@ -59,7 +69,8 @@ This profile showcases **personal and academic projects** focused on backend dev
 
 | Project | Description | Stack |
 |---|---|---|
-| [Life Manager](https://github.com/RodrigoCoelhoo/life-manager) | Personal management app for finance, nutrition and workouts | Java, Spring Boot, React, PostgreSQL, Redis, Docker |
+| [Ping Me](https://github.com/RodrigoCoelhoo/pingme) | Full-stack Real-Time Chat application | Java, Spring Boot, React, Typescript, MongoDB, Docker |
+| [Life Manager](https://github.com/RodrigoCoelhoo/life-manager) | Full-stack personal management app for finance, nutrition and workouts | Java, Spring Boot, React, Typescript, PostgreSQL, Redis, Docker |
 | [Job Tracker](https://github.com/RodrigoCoelhoo/job-tracker) | Full-stack app to track job applications, schedule interviews and sync with Google Calendar | TypeScript, React, Node.js, Express, Supabase, Google OAuth, Docker |
 | [DSA Visualizer](https://github.com/RodrigoCoelhoo/Data-Structures-And-Algorithms) | Interactive visualizer for data structures and algorithms | Java, JavaFX |
 | [Tuga Compiler](https://github.com/RodrigoCoelhoo/Java-Compiler-ANTLR) | Full compiler with lexer, parser, semantic analysis and custom VM | Java, ANTLR |
@@ -67,16 +78,10 @@ This profile showcases **personal and academic projects** focused on backend dev
 
 ---
 
-## Currently Learning
-
-Improving code quality through automated testing and learning basic monitoring and observability practices.
+## Upcoming learning objectives
 
 <p>
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logo=mockito&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
