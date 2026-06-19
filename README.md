@@ -1,7 +1,7 @@
 # Hi, I'm Rodrigo Coelho 👋
 🎓 Computer Engineering graduate from the [University of Algarve](https://www.ualg.pt/en/curso/1478/plano), Portugal  
 💻 Junior Software Engineer
-
+🌐 [My portfolio](https://rodrigocoelho.vercel.app/)
 ---
 
 ## About me
@@ -82,6 +82,7 @@ This profile showcases **personal and academic projects** focused on backend dev
 
 <p>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
 ---
